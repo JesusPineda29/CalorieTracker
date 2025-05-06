@@ -16,23 +16,6 @@ Aplicación web para seguimiento de calorías desarrollada con React y TypeScrip
 - 🎨 Interfaz moderna y responsiva
 - 📱 Diseño adaptable a diferentes dispositivos
 
-## 🚀 Instalación
-
-1. Clona el repositorio
-```bash
-git clone https://github.com/tu-usuario/calorie-track.git
-```
-
-2. Instala las dependencias
-```bash
-cd calorie-track
-npm install
-```
-
-3. Inicia el servidor de desarrollo
-```bash
-npm run dev
-```
 
 ## 🛠️ Tecnologías
 
@@ -41,22 +24,11 @@ npm run dev
 - Vite
 - Tailwind CSS
 - UUID
+- useReduce
+- localStorage
 
-## 📦 Estructura del Proyecto
 
-```
-src/
-├── components/     # Componentes React
-├── data/          # Datos estáticos
-├── reducers/      # Reducers para gestión de estado
-├── types/         # Definiciones de tipos TypeScript
-└── App.tsx        # Componente principal
-```
 
-## 🤝 Contribuir
+## 📝 Puedes ver el sitio en línea en:
+👉 https://spiffy-speculoos-ed99ec.netlify.app
 
-Las contribuciones son bienvenidas. Para cambios importantes, por favor abre primero un issue para discutir lo que te gustaría cambiar.
-
-## 📝 Licencia
-
-[MIT](https://choosealicense.com/licenses/mit/)
